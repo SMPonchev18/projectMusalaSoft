@@ -1,5 +1,5 @@
 <p align="center">
-
+  <img src="https://raw.githubusercontent.com/ISParashkevov18/Sossila.v2.ScaleFocus/main/pictures/sosila%20logo.png">
 </p>
 
 
